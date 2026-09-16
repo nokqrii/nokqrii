@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/6e/85/f7/6e85f7e0111ac569249afb790efff78f.gif" width="100%" alt="nokqrii banner" />
+  <img src="tuff.gif" width="100%" alt="nokqrii banner" />
 </p>
 
 # Nokqrii
