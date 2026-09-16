@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<link rel="icon" type="image/png" href="favicon.png">
 <p align="center">
   <img src="tuff.gif" width="100%" alt="nokqrii banner" />
 </p>
