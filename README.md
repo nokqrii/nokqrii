@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 </p>
 
 # Nokqrii
-* I am currently learning Assembly and C/C++ in-depth to develop niche understanding in Low-level system management
-* Ask me about programming!
+* I am currently learning Assembly and C/C++ in-depth to develop niche understanding in low-level systems and make cool stuffs
+* Ask me anything about programming and minecraft!
 * Programmer and competitive Minecraft Bedrock PvP player.
   
 
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
 * Python / C / C++ / C#
 * Java / Kotlin / Assembly
 * JavaScript / Arduino
+
   
 ### Link to external profiles:
 * [YouTube](https://youtube.com/@Nokqrii) / [YouTube (Code)](https://youtube.com/@Nokcodes)
