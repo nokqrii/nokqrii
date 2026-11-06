@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 * [YouTube](https://youtube.com/@Nokqrii) / [YouTube (Code)](https://youtube.com/@Nokcodes)
 * [Hive Statistics](https://www.hivebackpack.com/statistics/nokqrii)
 * [Hive Profile](https://playhive.com/profile/nokqrii)
+* [Instagram](https://instagram.com/nokqrii)
 * Discord: `nokqrii`
+* Instagram: `nokqrii`
