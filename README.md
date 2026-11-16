@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img src="tuff.gif" width="100%" alt="nokqrii banner" />
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1076541222887379028?idleMessage=I'm%20sleepyyyy&theme=dark&hideSpotify=true&hideTimestamp=true&hideBadges=true&showDisplayName=true)](https://discord.com/users/1076541222887379028)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1076541222887379028?idleMessage=I'm%20sleepyyyy&theme=dark&hideSpotify=true)](https://discord.com/users/1076541222887379028)
 
 # Nokqrii
 * I am currently learning Assembly and C/C++ in-depth to develop niche understanding in low-level systems and make cool stuffs
